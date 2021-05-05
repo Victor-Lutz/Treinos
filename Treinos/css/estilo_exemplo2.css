@@ -1,0 +1,49 @@
+body {
+	font-size:16px;
+}
+
+
+section {
+	width:;
+	height:;
+	margin:auto;
+	background:#D3D3D3;
+}
+
+header {
+	width:100%;
+	height:100px;
+	background:	#DAA520;
+	font-weight:900;
+	font-size:3em;
+	font-family: 'Anton', sans-serif;
+}
+
+aside {
+	width:35%;
+	height:830px;
+	background:#B0C4DE;
+	float:right;
+	color:#800000;
+}
+
+main {
+	width:65%;
+	height:830px;
+	background:#D3D3D3;	
+	color:#800000;
+	
+}
+
+footer {
+	height:50px;
+	width:100%;
+	background:#DAA520;
+	color:#800000;
+}
+
+.tabelas {
+	border:1px solid #000000;
+	border-radius:1px;
+	width:95%;
+	padding:2%;
